@@ -1,0 +1,2 @@
+# aicomp
+AI companion
